@@ -1,1 +1,3 @@
-clone về bằng lệnh git bash : git clone 
+clone về bằng lệnh git bash : git clone https://github.com/vyphanduy1234/Quang-Hanh-Dev1.git
+sau đó mở file sql chạy chạy script
+mở file c# và config lại connectionstring theo đúng máy chủ của máy mình
